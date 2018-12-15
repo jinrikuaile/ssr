@@ -3,11 +3,14 @@
 
 ssr：
 wget https://raw.githubusercontent.com/jinrikuaile/ssr/master/ssr.sh && bash ssr.sh -ssr
+
 ss：
 wget https://raw.githubusercontent.com/jinrikuaile/ssr/master/ssr.sh && bash ssr.sh -i jinrikuaile 1024
 jinrikuaile 密码 1024 端口
+
 ss卸载：
 wget https://raw.githubusercontent.com/jinrikuaile/ssr/master/ssr.sh && bash ssr.sh -uninstall
+
 bbr：
 wget https://raw.githubusercontent.com/jinrikuaile/ssr/master/ssr.sh && bash ssr.sh -bbr
 
